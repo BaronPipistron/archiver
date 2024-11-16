@@ -1,0 +1,7 @@
+/*
+
+TODO
+
+Check how Huffman compression algorithm works and code it here
+
+*/
